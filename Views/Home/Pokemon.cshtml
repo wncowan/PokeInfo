@@ -1,0 +1,12 @@
+<h2>Pokemon</h2>
+
+<h4>Name: @ViewBag.Pokemon.Name</h4>
+<h4>Types: </h4>
+<ul>
+    @foreach(var type in @ViewBag.Pokemon.Types)
+    {
+        <li>@type</li>
+    }
+</ul>
+<h4>Height: @ViewBag.Pokemon.Height</h4>
+<h4>Weight: @ViewBag.Pokemon.Weight</h4>

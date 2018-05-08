@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/bin/Debug/netcoreapp2.0/PokeInfo.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/bin/Debug/netcoreapp2.0/PokeInfo.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/bin/Debug/netcoreapp2.0/PokeInfo.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/bin/Debug/netcoreapp2.0/PokeInfo.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/bin/Debug/netcoreapp2.0/PokeInfo.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/obj/Debug/netcoreapp2.0/PokeInfo.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/obj/Debug/netcoreapp2.0/PokeInfo.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/obj/Debug/netcoreapp2.0/PokeInfo.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/obj/Debug/netcoreapp2.0/PokeInfo.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/PokeInfo/obj/Debug/netcoreapp2.0/PokeInfo.pdb
